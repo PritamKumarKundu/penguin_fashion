@@ -1,0 +1,21 @@
+*
+{
+    font-family: 'Oswald', sans-serif;
+}
+
+h1
+{
+    font-size: 50px;
+}
+
+header
+{
+    background-color: #FFFFF4;
+    height: 800px;
+}
+
+.fashion-card
+{
+    border: 0;
+    border-radius: 15px;
+}
